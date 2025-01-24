@@ -1,6 +1,6 @@
 title: Congzheng Liu 刘丛峥
 logo: /assets/img/logo.jpg
-email: person@address.com
+email: s43cliu at uni-bonn dot de
 favicon: true
 color-scheme: auto
 
@@ -13,9 +13,6 @@ plugins:
 navigation:
   - name: About me
     link: ./aboutme.html
-
-  - name: Contact
-    link: ./contact.html
 
   - name: Notes
     link: ./notes.html
