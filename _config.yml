@@ -11,10 +11,5 @@ plugins:
   
 
 navigation:
-  - name: Readme
-    link: ./index.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
   - name: About me
     link: ./aboutme.html
