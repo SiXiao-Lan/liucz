@@ -3,11 +3,6 @@ logo: /assets/img/logo.jpg
 email: s43cliu at uni-bonn dot de
 favicon: true
 color-scheme: auto
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
   
 
 navigation:
