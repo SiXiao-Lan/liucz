@@ -7,14 +7,14 @@ color-scheme: auto
   
 
 navigation:
-  - name: About me
-    link: ./aboutme.html
+  - name: Home
+    link: ./home.html
 
   - name: Notes
     link: ./notes.html
 
-  - name: Funny
-    link: ./funny.html
+  - name: More
+    link: ./more.html
 
 
 
