@@ -17,4 +17,4 @@ navigation:
       - name: Image
         link: ./index.html#small-image
   - name: About me
-    link: ./about-me.html
+    link: ./aboutme.html
