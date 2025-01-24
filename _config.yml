@@ -13,3 +13,9 @@ plugins:
 navigation:
   - name: About me
     link: ./aboutme.html
+
+  - name: Contact
+    link: ./contact.html
+
+  - name: Notes
+    link: ./notes.html
