@@ -2,8 +2,6 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 plugins:
   - jekyll-remote-theme
 color-scheme: auto
-platforms: false
-favicon: true
 
 title: Congzheng Liu 刘丛峥
 email: s43cliu at uni-bonn dot de
